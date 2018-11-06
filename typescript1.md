@@ -1,5 +1,6 @@
-# Learning TypeScript 1
+[Back to main page](https://ereeq.github.io/proglangblog/) 
 
+# Learning TypeScript 1
 ### Setup
 * Installed npm installer & setup TypeScript on local machine.
 * Init Github Pages
