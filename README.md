@@ -2,8 +2,9 @@
 * [Algorithms](https://ereeq.github.io/proglangblog/algorithms)
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
 
-## Matrices Calculator Project in TypeScript
 
+## Matrices Calculator Project in TypeScript
+* [ACCESS PROJECT](https://ereeq.github.io/proglangblog/typescript)
 ### Prototype Stage (Oct. 30):
 
 1. Plan calculator operations & design
