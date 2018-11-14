@@ -1,11 +1,14 @@
-# Matrices Calculator Project in TypeScript
+# Calculator in TypeScript
+[![Website][website-image]][website-url]
+> A simple Calculator in TypeScript(JavaScript)
 
 ## Blogs
 * [Algorithms](https://ereeq.github.io/proglangblog/algorithms)
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
 
-## Plan
-* [ACCESS PROJECT](https://ereeq.github.io/proglangblog/typescript)
+## Live Demo
+
+https://ereeq.github.io/proglangblog/typescript
 
 ### Prototype Stage (Oct. 30):
 
@@ -30,3 +33,6 @@
 2. Debugging
 3. Make it pretty(er)
 4. Blog post about functionality & final project
+
+[website-image]: https://img.shields.io/website-up-down-green-red/https/typescript-calculator.surge.sh.svg?style=flat-square
+[website-url]: https://ereeq.github.io/proglangblog/typescript
