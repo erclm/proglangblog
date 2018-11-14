@@ -10,8 +10,7 @@
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
 
 ## Live Demo
-
-[https://ereeq.github.io/proglangblog/typescript]
+[https://ereeq.github.io/proglangblog/typescript](https://ereeq.github.io/proglangblog/typescript)
 
 ### Prototype Stage (Oct. 30):
 
