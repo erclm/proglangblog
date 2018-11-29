@@ -13,3 +13,7 @@ to move html elements to typescript, we use
 ````typescript
 document.getElementByID
 ````
+
+Currently it shows like this:
+![alt text](prot1.png)
+where the answers show up on the console.
