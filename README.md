@@ -8,6 +8,7 @@
 * [Termination](https://ereeq.github.io/proglangblog/termination)
 * [Partial Correctness](https://ereeq.github.io/proglangblog/partial-correctness)
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
+* [Learning TypeScript 2](https://ereeq.github.io/proglangblog/typescript2)
 
 ## Live Demo
 [https://ereeq.github.io/proglangblog/typescript](https://ereeq.github.io/proglangblog/typescript)
@@ -18,16 +19,14 @@
 2. Learn TypeScript, see differences between JavaScript
 3. Test TypeScript on webserver
 4. Blog post about TypeScript & its functions
-5. Blog post about how the simple calculator math will be done
 
 ### Implementation Stage (Nov. 19):
 
 1. Implement simple UI
 2. Implement calculator functions
-3. Implement save function - multiple matrices saved
-4. Improve UI
-5. Get it Live
-6. Blog post about prototype
+3. Improve UI
+4. Get it Live
+5. Blog post
 
 ### Testing Stage (Dec. 7):
 
