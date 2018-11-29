@@ -11,6 +11,7 @@ What are the signature, variables and equations?
  - it uses binary operators $\vee$ and $\wedge$ and the unary operator $\neg$.
 
  As in [Algorithms](https://ereeq.github.io/proglangblog/algorithms), I explained bubble sort. this becomes like this
-`bubblesort(badc, 4) -> bubblesort(abdc, 3)`
-`bubblesort(abdc, 3) -> bubblesort(abdc, 2)`
-`bubblesort(abdc, 2) -> bubblesort(abcd, 1)`
+````bubblesort(badc, 4) -> bubblesort(abdc, 3)
+bubblesort(abdc, 3) -> bubblesort(abdc, 2)
+bubblesort(abdc, 2) -> bubblesort(abcd, 1)
+````
