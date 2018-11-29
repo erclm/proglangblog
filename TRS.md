@@ -7,4 +7,10 @@ Choose a simple algorithm and formulate it as a rewriting system as in the exerc
 What are the signature, variables and equations?
  - a Term Rewriting system is a system whose object are terms, and expressions are within nested sub-expressions.
  - it is basically a set of rules that makes 'l' into a 'r' (l->r).
- - it uses binary operators ( {\displaystyle (\vee )} (\vee ) and (\wedge ) ) and the unary operator {\displaystyle (\neg )} (\neg ).
+  - $l$ reduces to $r$
+ - it uses binary operators $\vee$ and $\wedge$ and the unary operator $\neg$.
+
+ As in [Algorithms](https://ereeq.github.io/proglangblog/algorithms), I explained bubble sort. this becomes like this
+`bubblesort(badc, 4) -> bubblesort(abdc, 3)`
+`bubblesort(abdc, 3) -> bubblesort(abdc, 2)`
+`bubblesort(abdc, 2) -> bubblesort(abcd, 1)`
