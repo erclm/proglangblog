@@ -4,7 +4,7 @@
 
 ## Blogs
 * [Algorithms](https://ereeq.github.io/proglangblog/algorithms)
-* [TRS](https://ereeq.github.io/proglangblog/TRS)
+* [Term Rewriting](https://ereeq.github.io/proglangblog/TRS)
 * [Termination](https://ereeq.github.io/proglangblog/termination)
 * [Partial Correctness](https://ereeq.github.io/proglangblog/partial-correctness)
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
