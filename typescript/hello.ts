@@ -7,3 +7,15 @@ function add(){
   console.log(result);
   (<HTMLInputElement>document.getElementById("result")).value = "9";
 }
+
+function sub(){
+
+}
+
+function mult(){
+
+}
+
+function div(){
+
+}

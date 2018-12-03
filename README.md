@@ -9,9 +9,13 @@
 * [Partial Correctness](https://ereeq.github.io/proglangblog/partial-correctness)
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
 * [Learning TypeScript 2](https://ereeq.github.io/proglangblog/typescript2)
+* [About Project](https://ereeq.github.io/proglangblog/proj)
 
 ## Live Demo
 [https://ereeq.github.io/proglangblog/typescript](https://ereeq.github.io/proglangblog/typescript)
+
+## Presentation
+[Link](https://docs.google.com/presentation/d/1Cdzq7MZ2D6TGdAE59FalreeyccFINSJBvqypU877tic/edit?usp=sharing)
 
 ### Prototype Stage (Oct. 30):
 
