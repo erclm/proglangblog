@@ -9,13 +9,22 @@ function add(){
 }
 
 function sub(){
-
+  let numberone = parseInt((<HTMLInputElement>document.getElementById("numberone")).value);
+  let numbertwo = parseInt((<HTMLInputElement>document.getElementById("numbertwo")).value);
+  let result = numberone-numbertwo;
+  console.log(result);
 }
 
 function mult(){
-
+  let numberone = parseInt((<HTMLInputElement>document.getElementById("numberone")).value);
+  let numbertwo = parseInt((<HTMLInputElement>document.getElementById("numbertwo")).value);
+  let result = numberone*numbertwo;
+  console.log(result);
 }
 
 function div(){
-
+  let numberone = parseInt((<HTMLInputElement>document.getElementById("numberone")).value);
+  let numbertwo = parseInt((<HTMLInputElement>document.getElementById("numbertwo")).value);
+  let result = numberone/numbertwo;
+  console.log(result);
 }
