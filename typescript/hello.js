@@ -4,7 +4,6 @@ function add() {
     var numbertwo = parseInt(document.getElementById("numbertwo").value);
     var result = numberone + numbertwo;
     console.log(result);
-    document.getElementById("result").value = "9";
 }
 function sub() {
     var numberone = parseInt(document.getElementById("numberone").value);
