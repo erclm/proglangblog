@@ -5,7 +5,6 @@ function add(){
   let numbertwo = parseInt((<HTMLInputElement>document.getElementById("numbertwo")).value);
   let result = numberone+numbertwo;
   console.log(result);
-  (<HTMLInputElement>document.getElementById("result")).value = "9";
 }
 
 function sub(){
