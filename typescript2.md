@@ -4,6 +4,8 @@
 
 I learned that I really dislike web development and I will never pursue a job in web development. It is very annoying and it is not fun.
 
+##differences to point out from JavaScript
+
 So all TypeScript functions are just `function` and any variables are declared by `let`. so like a `let number = 1` will declare `number` variable as 1.
 
 and then to use it, it uses a `document.body.innerHTML`. I dont understand how it works but it seems like the dots are just like java.

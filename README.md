@@ -10,6 +10,7 @@
 * [Learning TypeScript 1](https://ereeq.github.io/proglangblog/typescript1)
 * [Learning TypeScript 2](https://ereeq.github.io/proglangblog/typescript2)
 * [About Project](https://ereeq.github.io/proglangblog/proj)
+* [Overview & Takeaways](https://ereeq.github.io/proglangblog/overview)
 
 ## Live Demo
 [https://ereeq.github.io/proglangblog/typescript](https://ereeq.github.io/proglangblog/typescript)
