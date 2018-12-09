@@ -1,20 +1,20 @@
 [Back to main page](https://ereeq.github.io/proglangblog/)
 
-##What is TypeScript?
+## What is TypeScript?
 
 * Open source programming language developed by Microsoft
 * A superset of JavaScript
   * Superset? All of JavaScript is TypeScript
 * A statically typed language
 
-##Characteristics of JavaScript
+## Characteristics of JavaScript
 
 * JS is an heavy weighted interpreted programming language
 * Uses .js
 * Script for web, inside <script> </script>
 * Has HUGE pool of developers and widely used
 
-##Characteristics of TypeScript
+## Characteristics of TypeScript
 
 * Type is a light weighted interpreted, object-oriented compile language
 * Uses .ts or tsx
@@ -23,9 +23,9 @@
 * Relatively small amount of users
 * Mostly used with some other web framework, couldn’t find much standalone usage
 
-##differences in coding
+## differences in coding
 
-###TypeScript
+### TypeScript
 ```
 alert('hello world in typescript!');
 function add(){
@@ -38,7 +38,7 @@ function add(){
 
 ```
 
-###JavaScript(compiled)
+### JavaScript(compiled)
 ```
 alert('hello world in typescript!');
 function add() {
@@ -51,7 +51,7 @@ function add() {
 * can see multiple syntactical differences
 * the last line of TypeScript was not translated into a js script - shows that compiling takes care of some of the efficiency of the code
 
-##Takeaway
+## Takeaway
 
 * Created a simple calculator
 * TypeScript needs more tutorials
