@@ -5,6 +5,7 @@ function add(){
   let numbertwo = parseInt((<HTMLInputElement>document.getElementById("numbertwo")).value);
   let result = numberone+numbertwo;
   console.log(result);
+  writeResult(result);
 }
 
 function sub(){
@@ -26,4 +27,10 @@ function div(){
   let numbertwo = parseInt((<HTMLInputElement>document.getElementById("numbertwo")).value);
   let result = numberone/numbertwo;
   console.log(result);
+
+}
+
+function writeResult(n){
+  var num = n.toString();
+  document.getElementById("result").innerHTML = num;
 }
