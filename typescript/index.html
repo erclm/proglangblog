@@ -10,10 +10,32 @@
 </head>
 <body>
   <h1>4 Function Calculator</h1>
-     Number 1: <input id="numberone" class="form-control" type="number"></input></br>
-     Number 2: <input id="numbertwo" class="form-control" type="number"></input></br>
+
+  <div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon1">Number 1</span>
+  </div>
+  <input type="number" class="form-control" id="numberone">
+</div>
+
+<div class="input-group mb-3">
+<div class="input-group-prepend">
+  <span class="input-group-text" id="basic-addon1">Number 2</span>
+</div>
+<input type="number" class="form-control" id="numbertwo">
+</div>
+
     <script src="hello.js"></script>
-     Result: <input type="number" class="form-control" id="result" readonly></input> - check console under developer tools on your browser. </br>
+
+    <div class="input-group mb-3">
+    <div class="input-group-prepend">
+      <span class="input-group-text" id="basic-addon1">Result</span>
+    </div>
+    <input type="number" class="form-control" placeholder="0" id="result" readonly>
+  </div>
+  - check "console" under developer tools on your browser.
+
+   </br>
     </br>
 
      <button class="btn btn-success" type="button" value="add" onclick="add()"><i class="fas fa-plus"> Add</i></button>
