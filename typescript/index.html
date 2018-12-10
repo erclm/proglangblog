@@ -1,21 +1,27 @@
 <!doctype html>
 <html lang="en">
-<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
-
 <head>
   <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   <title>Learning TypeScript</title>
 </head>
 <body>
   <h1>4 Function Calculator</h1>
-    Number 1: <input id="numberone" type="number"></input></br>
-    Number 2: <input id="numbertwo" type="number"></input></br>
+     Number 1: <input id="numberone" class="form-control" type="number"></input></br>
+     Number 2: <input id="numbertwo" class="form-control" type="number"></input></br>
     <script src="hello.js"></script>
-    Result: <input type="number" id="result" readonly></input> - check console under developer tools on your browser. </br>
+     Result: <input type="number" class="form-control" id="result" readonly></input> - check console under developer tools on your browser. </br>
     </br>
-    <input type="button" value="add" onclick="add()"></input>
-    <input type="button" value="sub" onclick="sub()"></input>
-    <input type="button" value="mult" onclick="mult()"></input>
-    <input type="button" value="div" onclick="div()"></input>
+
+     <button class="btn btn-success" type="button" value="add" onclick="add()"><i class="fas fa-plus"> Add</i></button>
+
+     <button class="btn btn-warning" type="button" value="sub" onclick="sub()"><i class="fas fa-minus"> Subtract</i></button>
+
+     <button class="btn btn-primary" type="button" value="mult" onclick="mult()"><i class="fas fa-times"> Multiply</i></button>
+
+     <button class="btn btn-danger" type="button" value="div" onclick="div()"><i class="fas fa-divide"> Divide</i></button>
 </body>
 </html>
